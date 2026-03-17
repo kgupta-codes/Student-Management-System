@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Student%20Management%20System&fontSize=35&fontColor=ffffff"/>
+</p>
 # 🎓 Student Management System (C++)
 
 ![C++](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
