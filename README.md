@@ -72,7 +72,7 @@ g++ main.cpp
 ---
 
 ### 📋 Display Students
-<img width="419" height="320" alt="image" src="https://github.com/user-attachments/assets/cd288eac-28c1-4bb4-87b2-3a50ffde81f7" />
+<img width="421" height="459" alt="image" src="https://github.com/user-attachments/assets/2b6d7d41-aef3-4783-97b7-04431dc14e07" />
 
 ---
 
