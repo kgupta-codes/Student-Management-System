@@ -66,6 +66,20 @@ g++ main.cpp
 
 ---
 
+### ➕ Add Student
+<img width="414" height="229" alt="image" src="https://github.com/user-attachments/assets/09c8ca60-471d-4c92-93cb-0ee3a399ab3c" />
+
+---
+
+### 📋 Display Students
+<img width="419" height="320" alt="image" src="https://github.com/user-attachments/assets/cd288eac-28c1-4bb4-87b2-3a50ffde81f7" />
+
+---
+
+### 🏆 Topper
+<img width="421" height="256" alt="image" src="https://github.com/user-attachments/assets/97a68d98-483f-44c9-9e63-33dc404aecba" />
+
+---
 ## 🧠 Concepts Used
 
 * Classes and Objects
