@@ -1,6 +1,32 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Student%20Management%20System&fontSize=35&fontColor=ffffff"/>
 </p>
+<h1 align="center">
+  🏨 Hotel Management System
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+Hotel+Management+System;C%2B%2B+Project;File+Handling+%7C+OOP+Concepts;Built+by+Kunal+Gupta" />
+</p>
+<h1 align="center">
+  🏨 Hotel Management System
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007BFF&height=200&section=header&text=Hotel%20Management%20System&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<h1 align="center">
+  🏨 Hotel Management System
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007BFF&height=200&section=header&text=Hotel%20Management%20System&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Project;OOP+%7C+File+Handling;Beginner+Friendly+System;Made+by+Kunal+Gupta" />
+</p>
+
 # 🎓 Student Management System (C++)
 
 ![C++](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
